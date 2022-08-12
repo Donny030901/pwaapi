@@ -1,0 +1,23 @@
+{
+  "products": [
+{"id":1,"name":"Southern boubou","category":"Indigo"},
+{"id":2,"name":"Weaver, lesser masked","category":"Aquamarine"},
+{"id":3,"name":"Butterfly, canadian tiger swallowtail","category":"Green"},
+{"id":4,"name":"Alligator, mississippi","category":"Indigo"},
+{"id":5,"name":"Short-beaked echidna","category":"Teal"},
+{"id":6,"name":"Crow, house","category":"Blue"},
+{"id":7,"name":"Blue-tongued skink","category":"Green"},
+{"id":8,"name":"Turtle (unidentified)","category":"Green"},
+{"id":9,"name":"Dragon, ornate rock","category":"Turquoise"},
+{"id":10,"name":"Grison","category":"Fuscia"},
+{"id":11,"name":"Carpet python","category":"Mauv"},
+{"id":12,"name":"Dragon, ornate rock","category":"Purple"},
+{"id":13,"name":"Common raccoon","category":"Mauv"},
+{"id":14,"name":"Egret, cattle","category":"Teal"},
+{"id":15,"name":"Mongoose, small indian","category":"Red"},
+{"id":16,"name":"Marmot, hoary","category":"Goldenrod"},
+{"id":17,"name":"Tortoise, indian star","category":"Blue"},
+{"id":18,"name":"Swallow (unidentified)","category":"Orange"},
+{"id":19,"name":"Dromedary camel","category":"Teal"},
+{"id":20,"name":"Steller's sea lion","category":"Aquamarine"}]
+}
